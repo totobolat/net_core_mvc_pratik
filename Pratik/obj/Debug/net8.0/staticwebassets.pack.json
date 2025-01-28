@@ -1,0 +1,1045 @@
+{
+  "Files": [
+    {
+      "Id": "F:\\net_core_mvc_pratik\\Pratik\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Pratik.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Pratik.bundle.scp.css"
+    },
+    {
+      "Id": "F:\\net_core_mvc_pratik\\Pratik\\wwwroot\\cityimages\\budapest.jpg",
+      "PackagePath": "staticwebassets\\cityimages\\budapest.jpg"
+    },
+    {
+      "Id": "F:\\net_core_mvc_pratik\\Pratik\\wwwroot\\cityimages\\dresden.jpg",
+      "PackagePath": "staticwebassets\\cityimages\\dresden.jpg"
+    },
+    {
+      "Id": "F:\\net_core_mvc_pratik\\Pratik\\wwwroot\\cityimages\\lviv.jpg",
+      "PackagePath": "staticwebassets\\cityimages\\lviv.jpg"
+    },
+    {
+      "Id": "F:\\net_core_mvc_pratik\\Pratik\\wwwroot\\cityimages\\lyon.jpg",
+      "PackagePath": "staticwebassets\\cityimages\\lyon.jpg"
+    },
+    {
+      "Id": "F:\\net_core_mvc_pratik\\Pratik\\wwwroot\\cityimages\\miami.jpg",
+      "PackagePath": "staticwebassets\\cityimages\\miami.jpg"
+    },
+    {
+      "Id": "F:\\net_core_mvc_pratik\\Pratik\\wwwroot\\cityimages\\montenegro.jpg",
+      "PackagePath": "staticwebassets\\cityimages\\montenegro.jpg"
+    },
+    {
+      "Id": "F:\\net_core_mvc_pratik\\Pratik\\wwwroot\\cityimages\\rome.jpg",
+      "PackagePath": "staticwebassets\\cityimages\\rome.jpg"
+    },
+    {
+      "Id": "F:\\net_core_mvc_pratik\\Pratik\\wwwroot\\cityimages\\sofia.jpg",
+      "PackagePath": "staticwebassets\\cityimages\\sofia.jpg"
+    },
+    {
+      "Id": "F:\\net_core_mvc_pratik\\Pratik\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "F:\\net_core_mvc_pratik\\Pratik\\wwwroot\\dashmin-1.0.0\\404.html",
+      "PackagePath": "staticwebassets\\dashmin-1.0.0\\404.html"
+    },
+    {
+      "Id": "F:\\net_core_mvc_pratik\\Pratik\\wwwroot\\dashmin-1.0.0\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\dashmin-1.0.0\\LICENSE.txt"
+    },
+    {
+      "Id": "F:\\net_core_mvc_pratik\\Pratik\\wwwroot\\dashmin-1.0.0\\READ-ME.txt",
+      "PackagePath": "staticwebassets\\dashmin-1.0.0\\READ-ME.txt"
+    },
+    {
+      "Id": "F:\\net_core_mvc_pratik\\Pratik\\wwwroot\\dashmin-1.0.0\\blank.html",
+      "PackagePath": "staticwebassets\\dashmin-1.0.0\\blank.html"
+    },
+    {
+      "Id": "F:\\net_core_mvc_pratik\\Pratik\\wwwroot\\dashmin-1.0.0\\bootstrap-admin-template-free.jpg",
+      "PackagePath": "staticwebassets\\dashmin-1.0.0\\bootstrap-admin-template-free.jpg"
+    },
+    {
+      "Id": "F:\\net_core_mvc_pratik\\Pratik\\wwwroot\\dashmin-1.0.0\\button.html",
+      "PackagePath": "staticwebassets\\dashmin-1.0.0\\button.html"
+    },
+    {
+      "Id": "F:\\net_core_mvc_pratik\\Pratik\\wwwroot\\dashmin-1.0.0\\chart.html",
+      "PackagePath": "staticwebassets\\dashmin-1.0.0\\chart.html"
+    },
+    {
+      "Id": "F:\\net_core_mvc_pratik\\Pratik\\wwwroot\\dashmin-1.0.0\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\dashmin-1.0.0\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "F:\\net_core_mvc_pratik\\Pratik\\wwwroot\\dashmin-1.0.0\\css\\style.css",
+      "PackagePath": "staticwebassets\\dashmin-1.0.0\\css\\style.css"
+    },
+    {
+      "Id": "F:\\net_core_mvc_pratik\\Pratik\\wwwroot\\dashmin-1.0.0\\element.html",
+      "PackagePath": "staticwebassets\\dashmin-1.0.0\\element.html"
+    },
+    {
+      "Id": "F:\\net_core_mvc_pratik\\Pratik\\wwwroot\\dashmin-1.0.0\\form.html",
+      "PackagePath": "staticwebassets\\dashmin-1.0.0\\form.html"
+    },
+    {
+      "Id": "F:\\net_core_mvc_pratik\\Pratik\\wwwroot\\dashmin-1.0.0\\img\\testimonial-1.jpg",
+      "PackagePath": "staticwebassets\\dashmin-1.0.0\\img\\testimonial-1.jpg"
+    },
+    {
+      "Id": "F:\\net_core_mvc_pratik\\Pratik\\wwwroot\\dashmin-1.0.0\\img\\testimonial-2.jpg",
+      "PackagePath": "staticwebassets\\dashmin-1.0.0\\img\\testimonial-2.jpg"
+    },
+    {
+      "Id": "F:\\net_core_mvc_pratik\\Pratik\\wwwroot\\dashmin-1.0.0\\img\\user.jpg",
+      "PackagePath": "staticwebassets\\dashmin-1.0.0\\img\\user.jpg"
+    },
+    {
+      "Id": "F:\\net_core_mvc_pratik\\Pratik\\wwwroot\\dashmin-1.0.0\\index.html",
+      "PackagePath": "staticwebassets\\dashmin-1.0.0\\index.html"
+    },
+    {
+      "Id": "F:\\net_core_mvc_pratik\\Pratik\\wwwroot\\dashmin-1.0.0\\js\\main.js",
+      "PackagePath": "staticwebassets\\dashmin-1.0.0\\js\\main.js"
+    },
+    {
+      "Id": "F:\\net_core_mvc_pratik\\Pratik\\wwwroot\\dashmin-1.0.0\\lib\\chart\\chart.min.js",
+      "PackagePath": "staticwebassets\\dashmin-1.0.0\\lib\\chart\\chart.min.js"
+    },
+    {
+      "Id": "F:\\net_core_mvc_pratik\\Pratik\\wwwroot\\dashmin-1.0.0\\lib\\easing\\easing.js",
+      "PackagePath": "staticwebassets\\dashmin-1.0.0\\lib\\easing\\easing.js"
+    },
+    {
+      "Id": "F:\\net_core_mvc_pratik\\Pratik\\wwwroot\\dashmin-1.0.0\\lib\\easing\\easing.min.js",
+      "PackagePath": "staticwebassets\\dashmin-1.0.0\\lib\\easing\\easing.min.js"
+    },
+    {
+      "Id": "F:\\net_core_mvc_pratik\\Pratik\\wwwroot\\dashmin-1.0.0\\lib\\owlcarousel\\LICENSE",
+      "PackagePath": "staticwebassets\\dashmin-1.0.0\\lib\\owlcarousel"
+    },
+    {
+      "Id": "F:\\net_core_mvc_pratik\\Pratik\\wwwroot\\dashmin-1.0.0\\lib\\owlcarousel\\assets\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\dashmin-1.0.0\\lib\\owlcarousel\\assets\\ajax-loader.gif"
+    },
+    {
+      "Id": "F:\\net_core_mvc_pratik\\Pratik\\wwwroot\\dashmin-1.0.0\\lib\\owlcarousel\\assets\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\dashmin-1.0.0\\lib\\owlcarousel\\assets\\owl.carousel.css"
+    },
+    {
+      "Id": "F:\\net_core_mvc_pratik\\Pratik\\wwwroot\\dashmin-1.0.0\\lib\\owlcarousel\\assets\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\dashmin-1.0.0\\lib\\owlcarousel\\assets\\owl.carousel.min.css"
+    },
+    {
+      "Id": "F:\\net_core_mvc_pratik\\Pratik\\wwwroot\\dashmin-1.0.0\\lib\\owlcarousel\\assets\\owl.theme.default.css",
+      "PackagePath": "staticwebassets\\dashmin-1.0.0\\lib\\owlcarousel\\assets\\owl.theme.default.css"
+    },
+    {
+      "Id": "F:\\net_core_mvc_pratik\\Pratik\\wwwroot\\dashmin-1.0.0\\lib\\owlcarousel\\assets\\owl.theme.default.min.css",
+      "PackagePath": "staticwebassets\\dashmin-1.0.0\\lib\\owlcarousel\\assets\\owl.theme.default.min.css"
+    },
+    {
+      "Id": "F:\\net_core_mvc_pratik\\Pratik\\wwwroot\\dashmin-1.0.0\\lib\\owlcarousel\\assets\\owl.theme.green.css",
+      "PackagePath": "staticwebassets\\dashmin-1.0.0\\lib\\owlcarousel\\assets\\owl.theme.green.css"
+    },
+    {
+      "Id": "F:\\net_core_mvc_pratik\\Pratik\\wwwroot\\dashmin-1.0.0\\lib\\owlcarousel\\assets\\owl.theme.green.min.css",
+      "PackagePath": "staticwebassets\\dashmin-1.0.0\\lib\\owlcarousel\\assets\\owl.theme.green.min.css"
+    },
+    {
+      "Id": "F:\\net_core_mvc_pratik\\Pratik\\wwwroot\\dashmin-1.0.0\\lib\\owlcarousel\\assets\\owl.video.play.png",
+      "PackagePath": "staticwebassets\\dashmin-1.0.0\\lib\\owlcarousel\\assets\\owl.video.play.png"
+    },
+    {
+      "Id": "F:\\net_core_mvc_pratik\\Pratik\\wwwroot\\dashmin-1.0.0\\lib\\owlcarousel\\owl.carousel.js",
+      "PackagePath": "staticwebassets\\dashmin-1.0.0\\lib\\owlcarousel\\owl.carousel.js"
+    },
+    {
+      "Id": "F:\\net_core_mvc_pratik\\Pratik\\wwwroot\\dashmin-1.0.0\\lib\\owlcarousel\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\dashmin-1.0.0\\lib\\owlcarousel\\owl.carousel.min.js"
+    },
+    {
+      "Id": "F:\\net_core_mvc_pratik\\Pratik\\wwwroot\\dashmin-1.0.0\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.css",
+      "PackagePath": "staticwebassets\\dashmin-1.0.0\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.css"
+    },
+    {
+      "Id": "F:\\net_core_mvc_pratik\\Pratik\\wwwroot\\dashmin-1.0.0\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.min.css",
+      "PackagePath": "staticwebassets\\dashmin-1.0.0\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.min.css"
+    },
+    {
+      "Id": "F:\\net_core_mvc_pratik\\Pratik\\wwwroot\\dashmin-1.0.0\\lib\\tempusdominus\\js\\moment-timezone.min.js",
+      "PackagePath": "staticwebassets\\dashmin-1.0.0\\lib\\tempusdominus\\js\\moment-timezone.min.js"
+    },
+    {
+      "Id": "F:\\net_core_mvc_pratik\\Pratik\\wwwroot\\dashmin-1.0.0\\lib\\tempusdominus\\js\\moment.min.js",
+      "PackagePath": "staticwebassets\\dashmin-1.0.0\\lib\\tempusdominus\\js\\moment.min.js"
+    },
+    {
+      "Id": "F:\\net_core_mvc_pratik\\Pratik\\wwwroot\\dashmin-1.0.0\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.js",
+      "PackagePath": "staticwebassets\\dashmin-1.0.0\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.js"
+    },
+    {
+      "Id": "F:\\net_core_mvc_pratik\\Pratik\\wwwroot\\dashmin-1.0.0\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.min.js",
+      "PackagePath": "staticwebassets\\dashmin-1.0.0\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.min.js"
+    },
+    {
+      "Id": "F:\\net_core_mvc_pratik\\Pratik\\wwwroot\\dashmin-1.0.0\\lib\\waypoints\\links.php",
+      "PackagePath": "staticwebassets\\dashmin-1.0.0\\lib\\waypoints\\links.php"
+    },
+    {
+      "Id": "F:\\net_core_mvc_pratik\\Pratik\\wwwroot\\dashmin-1.0.0\\lib\\waypoints\\waypoints.min.js",
+      "PackagePath": "staticwebassets\\dashmin-1.0.0\\lib\\waypoints\\waypoints.min.js"
+    },
+    {
+      "Id": "F:\\net_core_mvc_pratik\\Pratik\\wwwroot\\dashmin-1.0.0\\scss\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\dashmin-1.0.0\\scss\\bootstrap.scss"
+    },
+    {
+      "Id": "F:\\net_core_mvc_pratik\\Pratik\\wwwroot\\dashmin-1.0.0\\scss\\bootstrap\\scss\\_accordion.scss",
+      "PackagePath": "staticwebassets\\dashmin-1.0.0\\scss\\bootstrap\\scss\\_accordion.scss"
+    },
+    {
+      "Id": "F:\\net_core_mvc_pratik\\Pratik\\wwwroot\\dashmin-1.0.0\\scss\\bootstrap\\scss\\_alert.scss",
+      "PackagePath": "staticwebassets\\dashmin-1.0.0\\scss\\bootstrap\\scss\\_alert.scss"
+    },
+    {
+      "Id": "F:\\net_core_mvc_pratik\\Pratik\\wwwroot\\dashmin-1.0.0\\scss\\bootstrap\\scss\\_badge.scss",
+      "PackagePath": "staticwebassets\\dashmin-1.0.0\\scss\\bootstrap\\scss\\_badge.scss"
+    },
+    {
+      "Id": "F:\\net_core_mvc_pratik\\Pratik\\wwwroot\\dashmin-1.0.0\\scss\\bootstrap\\scss\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\dashmin-1.0.0\\scss\\bootstrap\\scss\\_breadcrumb.scss"
+    },
+    {
+      "Id": "F:\\net_core_mvc_pratik\\Pratik\\wwwroot\\dashmin-1.0.0\\scss\\bootstrap\\scss\\_button-group.scss",
+      "PackagePath": "staticwebassets\\dashmin-1.0.0\\scss\\bootstrap\\scss\\_button-group.scss"
+    },
+    {
+      "Id": "F:\\net_core_mvc_pratik\\Pratik\\wwwroot\\dashmin-1.0.0\\scss\\bootstrap\\scss\\_buttons.scss",
+      "PackagePath": "staticwebassets\\dashmin-1.0.0\\scss\\bootstrap\\scss\\_buttons.scss"
+    },
+    {
+      "Id": "F:\\net_core_mvc_pratik\\Pratik\\wwwroot\\dashmin-1.0.0\\scss\\bootstrap\\scss\\_card.scss",
+      "PackagePath": "staticwebassets\\dashmin-1.0.0\\scss\\bootstrap\\scss\\_card.scss"
+    },
+    {
+      "Id": "F:\\net_core_mvc_pratik\\Pratik\\wwwroot\\dashmin-1.0.0\\scss\\bootstrap\\scss\\_carousel.scss",
+      "PackagePath": "staticwebassets\\dashmin-1.0.0\\scss\\bootstrap\\scss\\_carousel.scss"
+    },
+    {
+      "Id": "F:\\net_core_mvc_pratik\\Pratik\\wwwroot\\dashmin-1.0.0\\scss\\bootstrap\\scss\\_close.scss",
+      "PackagePath": "staticwebassets\\dashmin-1.0.0\\scss\\bootstrap\\scss\\_close.scss"
+    },
+    {
+      "Id": "F:\\net_core_mvc_pratik\\Pratik\\wwwroot\\dashmin-1.0.0\\scss\\bootstrap\\scss\\_containers.scss",
+      "PackagePath": "staticwebassets\\dashmin-1.0.0\\scss\\bootstrap\\scss\\_containers.scss"
+    },
+    {
+      "Id": "F:\\net_core_mvc_pratik\\Pratik\\wwwroot\\dashmin-1.0.0\\scss\\bootstrap\\scss\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\dashmin-1.0.0\\scss\\bootstrap\\scss\\_dropdown.scss"
+    },
+    {
+      "Id": "F:\\net_core_mvc_pratik\\Pratik\\wwwroot\\dashmin-1.0.0\\scss\\bootstrap\\scss\\_forms.scss",
+      "PackagePath": "staticwebassets\\dashmin-1.0.0\\scss\\bootstrap\\scss\\_forms.scss"
+    },
+    {
+      "Id": "F:\\net_core_mvc_pratik\\Pratik\\wwwroot\\dashmin-1.0.0\\scss\\bootstrap\\scss\\_functions.scss",
+      "PackagePath": "staticwebassets\\dashmin-1.0.0\\scss\\bootstrap\\scss\\_functions.scss"
+    },
+    {
+      "Id": "F:\\net_core_mvc_pratik\\Pratik\\wwwroot\\dashmin-1.0.0\\scss\\bootstrap\\scss\\_grid.scss",
+      "PackagePath": "staticwebassets\\dashmin-1.0.0\\scss\\bootstrap\\scss\\_grid.scss"
+    },
+    {
+      "Id": "F:\\net_core_mvc_pratik\\Pratik\\wwwroot\\dashmin-1.0.0\\scss\\bootstrap\\scss\\_helpers.scss",
+      "PackagePath": "staticwebassets\\dashmin-1.0.0\\scss\\bootstrap\\scss\\_helpers.scss"
+    },
+    {
+      "Id": "F:\\net_core_mvc_pratik\\Pratik\\wwwroot\\dashmin-1.0.0\\scss\\bootstrap\\scss\\_images.scss",
+      "PackagePath": "staticwebassets\\dashmin-1.0.0\\scss\\bootstrap\\scss\\_images.scss"
+    },
+    {
+      "Id": "F:\\net_core_mvc_pratik\\Pratik\\wwwroot\\dashmin-1.0.0\\scss\\bootstrap\\scss\\_list-group.scss",
+      "PackagePath": "staticwebassets\\dashmin-1.0.0\\scss\\bootstrap\\scss\\_list-group.scss"
+    },
+    {
+      "Id": "F:\\net_core_mvc_pratik\\Pratik\\wwwroot\\dashmin-1.0.0\\scss\\bootstrap\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\dashmin-1.0.0\\scss\\bootstrap\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "F:\\net_core_mvc_pratik\\Pratik\\wwwroot\\dashmin-1.0.0\\scss\\bootstrap\\scss\\_modal.scss",
+      "PackagePath": "staticwebassets\\dashmin-1.0.0\\scss\\bootstrap\\scss\\_modal.scss"
+    },
+    {
+      "Id": "F:\\net_core_mvc_pratik\\Pratik\\wwwroot\\dashmin-1.0.0\\scss\\bootstrap\\scss\\_nav.scss",
+      "PackagePath": "staticwebassets\\dashmin-1.0.0\\scss\\bootstrap\\scss\\_nav.scss"
+    },
+    {
+      "Id": "F:\\net_core_mvc_pratik\\Pratik\\wwwroot\\dashmin-1.0.0\\scss\\bootstrap\\scss\\_navbar.scss",
+      "PackagePath": "staticwebassets\\dashmin-1.0.0\\scss\\bootstrap\\scss\\_navbar.scss"
+    },
+    {
+      "Id": "F:\\net_core_mvc_pratik\\Pratik\\wwwroot\\dashmin-1.0.0\\scss\\bootstrap\\scss\\_offcanvas.scss",
+      "PackagePath": "staticwebassets\\dashmin-1.0.0\\scss\\bootstrap\\scss\\_offcanvas.scss"
+    },
+    {
+      "Id": "F:\\net_core_mvc_pratik\\Pratik\\wwwroot\\dashmin-1.0.0\\scss\\bootstrap\\scss\\_pagination.scss",
+      "PackagePath": "staticwebassets\\dashmin-1.0.0\\scss\\bootstrap\\scss\\_pagination.scss"
+    },
+    {
+      "Id": "F:\\net_core_mvc_pratik\\Pratik\\wwwroot\\dashmin-1.0.0\\scss\\bootstrap\\scss\\_popover.scss",
+      "PackagePath": "staticwebassets\\dashmin-1.0.0\\scss\\bootstrap\\scss\\_popover.scss"
+    },
+    {
+      "Id": "F:\\net_core_mvc_pratik\\Pratik\\wwwroot\\dashmin-1.0.0\\scss\\bootstrap\\scss\\_progress.scss",
+      "PackagePath": "staticwebassets\\dashmin-1.0.0\\scss\\bootstrap\\scss\\_progress.scss"
+    },
+    {
+      "Id": "F:\\net_core_mvc_pratik\\Pratik\\wwwroot\\dashmin-1.0.0\\scss\\bootstrap\\scss\\_reboot.scss",
+      "PackagePath": "staticwebassets\\dashmin-1.0.0\\scss\\bootstrap\\scss\\_reboot.scss"
+    },
+    {
+      "Id": "F:\\net_core_mvc_pratik\\Pratik\\wwwroot\\dashmin-1.0.0\\scss\\bootstrap\\scss\\_root.scss",
+      "PackagePath": "staticwebassets\\dashmin-1.0.0\\scss\\bootstrap\\scss\\_root.scss"
+    },
+    {
+      "Id": "F:\\net_core_mvc_pratik\\Pratik\\wwwroot\\dashmin-1.0.0\\scss\\bootstrap\\scss\\_spinners.scss",
+      "PackagePath": "staticwebassets\\dashmin-1.0.0\\scss\\bootstrap\\scss\\_spinners.scss"
+    },
+    {
+      "Id": "F:\\net_core_mvc_pratik\\Pratik\\wwwroot\\dashmin-1.0.0\\scss\\bootstrap\\scss\\_tables.scss",
+      "PackagePath": "staticwebassets\\dashmin-1.0.0\\scss\\bootstrap\\scss\\_tables.scss"
+    },
+    {
+      "Id": "F:\\net_core_mvc_pratik\\Pratik\\wwwroot\\dashmin-1.0.0\\scss\\bootstrap\\scss\\_toasts.scss",
+      "PackagePath": "staticwebassets\\dashmin-1.0.0\\scss\\bootstrap\\scss\\_toasts.scss"
+    },
+    {
+      "Id": "F:\\net_core_mvc_pratik\\Pratik\\wwwroot\\dashmin-1.0.0\\scss\\bootstrap\\scss\\_tooltip.scss",
+      "PackagePath": "staticwebassets\\dashmin-1.0.0\\scss\\bootstrap\\scss\\_tooltip.scss"
+    },
+    {
+      "Id": "F:\\net_core_mvc_pratik\\Pratik\\wwwroot\\dashmin-1.0.0\\scss\\bootstrap\\scss\\_transitions.scss",
+      "PackagePath": "staticwebassets\\dashmin-1.0.0\\scss\\bootstrap\\scss\\_transitions.scss"
+    },
+    {
+      "Id": "F:\\net_core_mvc_pratik\\Pratik\\wwwroot\\dashmin-1.0.0\\scss\\bootstrap\\scss\\_type.scss",
+      "PackagePath": "staticwebassets\\dashmin-1.0.0\\scss\\bootstrap\\scss\\_type.scss"
+    },
+    {
+      "Id": "F:\\net_core_mvc_pratik\\Pratik\\wwwroot\\dashmin-1.0.0\\scss\\bootstrap\\scss\\_utilities.scss",
+      "PackagePath": "staticwebassets\\dashmin-1.0.0\\scss\\bootstrap\\scss\\_utilities.scss"
+    },
+    {
+      "Id": "F:\\net_core_mvc_pratik\\Pratik\\wwwroot\\dashmin-1.0.0\\scss\\bootstrap\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\dashmin-1.0.0\\scss\\bootstrap\\scss\\_variables.scss"
+    },
+    {
+      "Id": "F:\\net_core_mvc_pratik\\Pratik\\wwwroot\\dashmin-1.0.0\\scss\\bootstrap\\scss\\bootstrap-grid.scss",
+      "PackagePath": "staticwebassets\\dashmin-1.0.0\\scss\\bootstrap\\scss\\bootstrap-grid.scss"
+    },
+    {
+      "Id": "F:\\net_core_mvc_pratik\\Pratik\\wwwroot\\dashmin-1.0.0\\scss\\bootstrap\\scss\\bootstrap-reboot.scss",
+      "PackagePath": "staticwebassets\\dashmin-1.0.0\\scss\\bootstrap\\scss\\bootstrap-reboot.scss"
+    },
+    {
+      "Id": "F:\\net_core_mvc_pratik\\Pratik\\wwwroot\\dashmin-1.0.0\\scss\\bootstrap\\scss\\bootstrap-utilities.scss",
+      "PackagePath": "staticwebassets\\dashmin-1.0.0\\scss\\bootstrap\\scss\\bootstrap-utilities.scss"
+    },
+    {
+      "Id": "F:\\net_core_mvc_pratik\\Pratik\\wwwroot\\dashmin-1.0.0\\scss\\bootstrap\\scss\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\dashmin-1.0.0\\scss\\bootstrap\\scss\\bootstrap.scss"
+    },
+    {
+      "Id": "F:\\net_core_mvc_pratik\\Pratik\\wwwroot\\dashmin-1.0.0\\scss\\bootstrap\\scss\\forms\\_floating-labels.scss",
+      "PackagePath": "staticwebassets\\dashmin-1.0.0\\scss\\bootstrap\\scss\\forms\\_floating-labels.scss"
+    },
+    {
+      "Id": "F:\\net_core_mvc_pratik\\Pratik\\wwwroot\\dashmin-1.0.0\\scss\\bootstrap\\scss\\forms\\_form-check.scss",
+      "PackagePath": "staticwebassets\\dashmin-1.0.0\\scss\\bootstrap\\scss\\forms\\_form-check.scss"
+    },
+    {
+      "Id": "F:\\net_core_mvc_pratik\\Pratik\\wwwroot\\dashmin-1.0.0\\scss\\bootstrap\\scss\\forms\\_form-control.scss",
+      "PackagePath": "staticwebassets\\dashmin-1.0.0\\scss\\bootstrap\\scss\\forms\\_form-control.scss"
+    },
+    {
+      "Id": "F:\\net_core_mvc_pratik\\Pratik\\wwwroot\\dashmin-1.0.0\\scss\\bootstrap\\scss\\forms\\_form-range.scss",
+      "PackagePath": "staticwebassets\\dashmin-1.0.0\\scss\\bootstrap\\scss\\forms\\_form-range.scss"
+    },
+    {
+      "Id": "F:\\net_core_mvc_pratik\\Pratik\\wwwroot\\dashmin-1.0.0\\scss\\bootstrap\\scss\\forms\\_form-select.scss",
+      "PackagePath": "staticwebassets\\dashmin-1.0.0\\scss\\bootstrap\\scss\\forms\\_form-select.scss"
+    },
+    {
+      "Id": "F:\\net_core_mvc_pratik\\Pratik\\wwwroot\\dashmin-1.0.0\\scss\\bootstrap\\scss\\forms\\_form-text.scss",
+      "PackagePath": "staticwebassets\\dashmin-1.0.0\\scss\\bootstrap\\scss\\forms\\_form-text.scss"
+    },
+    {
+      "Id": "F:\\net_core_mvc_pratik\\Pratik\\wwwroot\\dashmin-1.0.0\\scss\\bootstrap\\scss\\forms\\_input-group.scss",
+      "PackagePath": "staticwebassets\\dashmin-1.0.0\\scss\\bootstrap\\scss\\forms\\_input-group.scss"
+    },
+    {
+      "Id": "F:\\net_core_mvc_pratik\\Pratik\\wwwroot\\dashmin-1.0.0\\scss\\bootstrap\\scss\\forms\\_labels.scss",
+      "PackagePath": "staticwebassets\\dashmin-1.0.0\\scss\\bootstrap\\scss\\forms\\_labels.scss"
+    },
+    {
+      "Id": "F:\\net_core_mvc_pratik\\Pratik\\wwwroot\\dashmin-1.0.0\\scss\\bootstrap\\scss\\forms\\_validation.scss",
+      "PackagePath": "staticwebassets\\dashmin-1.0.0\\scss\\bootstrap\\scss\\forms\\_validation.scss"
+    },
+    {
+      "Id": "F:\\net_core_mvc_pratik\\Pratik\\wwwroot\\dashmin-1.0.0\\scss\\bootstrap\\scss\\helpers\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\dashmin-1.0.0\\scss\\bootstrap\\scss\\helpers\\_clearfix.scss"
+    },
+    {
+      "Id": "F:\\net_core_mvc_pratik\\Pratik\\wwwroot\\dashmin-1.0.0\\scss\\bootstrap\\scss\\helpers\\_colored-links.scss",
+      "PackagePath": "staticwebassets\\dashmin-1.0.0\\scss\\bootstrap\\scss\\helpers\\_colored-links.scss"
+    },
+    {
+      "Id": "F:\\net_core_mvc_pratik\\Pratik\\wwwroot\\dashmin-1.0.0\\scss\\bootstrap\\scss\\helpers\\_position.scss",
+      "PackagePath": "staticwebassets\\dashmin-1.0.0\\scss\\bootstrap\\scss\\helpers\\_position.scss"
+    },
+    {
+      "Id": "F:\\net_core_mvc_pratik\\Pratik\\wwwroot\\dashmin-1.0.0\\scss\\bootstrap\\scss\\helpers\\_ratio.scss",
+      "PackagePath": "staticwebassets\\dashmin-1.0.0\\scss\\bootstrap\\scss\\helpers\\_ratio.scss"
+    },
+    {
+      "Id": "F:\\net_core_mvc_pratik\\Pratik\\wwwroot\\dashmin-1.0.0\\scss\\bootstrap\\scss\\helpers\\_stretched-link.scss",
+      "PackagePath": "staticwebassets\\dashmin-1.0.0\\scss\\bootstrap\\scss\\helpers\\_stretched-link.scss"
+    },
+    {
+      "Id": "F:\\net_core_mvc_pratik\\Pratik\\wwwroot\\dashmin-1.0.0\\scss\\bootstrap\\scss\\helpers\\_text-truncation.scss",
+      "PackagePath": "staticwebassets\\dashmin-1.0.0\\scss\\bootstrap\\scss\\helpers\\_text-truncation.scss"
+    },
+    {
+      "Id": "F:\\net_core_mvc_pratik\\Pratik\\wwwroot\\dashmin-1.0.0\\scss\\bootstrap\\scss\\helpers\\_visually-hidden.scss",
+      "PackagePath": "staticwebassets\\dashmin-1.0.0\\scss\\bootstrap\\scss\\helpers\\_visually-hidden.scss"
+    },
+    {
+      "Id": "F:\\net_core_mvc_pratik\\Pratik\\wwwroot\\dashmin-1.0.0\\scss\\bootstrap\\scss\\mixins\\_alert.scss",
+      "PackagePath": "staticwebassets\\dashmin-1.0.0\\scss\\bootstrap\\scss\\mixins\\_alert.scss"
+    },
+    {
+      "Id": "F:\\net_core_mvc_pratik\\Pratik\\wwwroot\\dashmin-1.0.0\\scss\\bootstrap\\scss\\mixins\\_border-radius.scss",
+      "PackagePath": "staticwebassets\\dashmin-1.0.0\\scss\\bootstrap\\scss\\mixins\\_border-radius.scss"
+    },
+    {
+      "Id": "F:\\net_core_mvc_pratik\\Pratik\\wwwroot\\dashmin-1.0.0\\scss\\bootstrap\\scss\\mixins\\_box-shadow.scss",
+      "PackagePath": "staticwebassets\\dashmin-1.0.0\\scss\\bootstrap\\scss\\mixins\\_box-shadow.scss"
+    },
+    {
+      "Id": "F:\\net_core_mvc_pratik\\Pratik\\wwwroot\\dashmin-1.0.0\\scss\\bootstrap\\scss\\mixins\\_breakpoints.scss",
+      "PackagePath": "staticwebassets\\dashmin-1.0.0\\scss\\bootstrap\\scss\\mixins\\_breakpoints.scss"
+    },
+    {
+      "Id": "F:\\net_core_mvc_pratik\\Pratik\\wwwroot\\dashmin-1.0.0\\scss\\bootstrap\\scss\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\dashmin-1.0.0\\scss\\bootstrap\\scss\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "F:\\net_core_mvc_pratik\\Pratik\\wwwroot\\dashmin-1.0.0\\scss\\bootstrap\\scss\\mixins\\_caret.scss",
+      "PackagePath": "staticwebassets\\dashmin-1.0.0\\scss\\bootstrap\\scss\\mixins\\_caret.scss"
+    },
+    {
+      "Id": "F:\\net_core_mvc_pratik\\Pratik\\wwwroot\\dashmin-1.0.0\\scss\\bootstrap\\scss\\mixins\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\dashmin-1.0.0\\scss\\bootstrap\\scss\\mixins\\_clearfix.scss"
+    },
+    {
+      "Id": "F:\\net_core_mvc_pratik\\Pratik\\wwwroot\\dashmin-1.0.0\\scss\\bootstrap\\scss\\mixins\\_color-scheme.scss",
+      "PackagePath": "staticwebassets\\dashmin-1.0.0\\scss\\bootstrap\\scss\\mixins\\_color-scheme.scss"
+    },
+    {
+      "Id": "F:\\net_core_mvc_pratik\\Pratik\\wwwroot\\dashmin-1.0.0\\scss\\bootstrap\\scss\\mixins\\_container.scss",
+      "PackagePath": "staticwebassets\\dashmin-1.0.0\\scss\\bootstrap\\scss\\mixins\\_container.scss"
+    },
+    {
+      "Id": "F:\\net_core_mvc_pratik\\Pratik\\wwwroot\\dashmin-1.0.0\\scss\\bootstrap\\scss\\mixins\\_deprecate.scss",
+      "PackagePath": "staticwebassets\\dashmin-1.0.0\\scss\\bootstrap\\scss\\mixins\\_deprecate.scss"
+    },
+    {
+      "Id": "F:\\net_core_mvc_pratik\\Pratik\\wwwroot\\dashmin-1.0.0\\scss\\bootstrap\\scss\\mixins\\_forms.scss",
+      "PackagePath": "staticwebassets\\dashmin-1.0.0\\scss\\bootstrap\\scss\\mixins\\_forms.scss"
+    },
+    {
+      "Id": "F:\\net_core_mvc_pratik\\Pratik\\wwwroot\\dashmin-1.0.0\\scss\\bootstrap\\scss\\mixins\\_gradients.scss",
+      "PackagePath": "staticwebassets\\dashmin-1.0.0\\scss\\bootstrap\\scss\\mixins\\_gradients.scss"
+    },
+    {
+      "Id": "F:\\net_core_mvc_pratik\\Pratik\\wwwroot\\dashmin-1.0.0\\scss\\bootstrap\\scss\\mixins\\_grid.scss",
+      "PackagePath": "staticwebassets\\dashmin-1.0.0\\scss\\bootstrap\\scss\\mixins\\_grid.scss"
+    },
+    {
+      "Id": "F:\\net_core_mvc_pratik\\Pratik\\wwwroot\\dashmin-1.0.0\\scss\\bootstrap\\scss\\mixins\\_image.scss",
+      "PackagePath": "staticwebassets\\dashmin-1.0.0\\scss\\bootstrap\\scss\\mixins\\_image.scss"
+    },
+    {
+      "Id": "F:\\net_core_mvc_pratik\\Pratik\\wwwroot\\dashmin-1.0.0\\scss\\bootstrap\\scss\\mixins\\_list-group.scss",
+      "PackagePath": "staticwebassets\\dashmin-1.0.0\\scss\\bootstrap\\scss\\mixins\\_list-group.scss"
+    },
+    {
+      "Id": "F:\\net_core_mvc_pratik\\Pratik\\wwwroot\\dashmin-1.0.0\\scss\\bootstrap\\scss\\mixins\\_lists.scss",
+      "PackagePath": "staticwebassets\\dashmin-1.0.0\\scss\\bootstrap\\scss\\mixins\\_lists.scss"
+    },
+    {
+      "Id": "F:\\net_core_mvc_pratik\\Pratik\\wwwroot\\dashmin-1.0.0\\scss\\bootstrap\\scss\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\dashmin-1.0.0\\scss\\bootstrap\\scss\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "F:\\net_core_mvc_pratik\\Pratik\\wwwroot\\dashmin-1.0.0\\scss\\bootstrap\\scss\\mixins\\_reset-text.scss",
+      "PackagePath": "staticwebassets\\dashmin-1.0.0\\scss\\bootstrap\\scss\\mixins\\_reset-text.scss"
+    },
+    {
+      "Id": "F:\\net_core_mvc_pratik\\Pratik\\wwwroot\\dashmin-1.0.0\\scss\\bootstrap\\scss\\mixins\\_resize.scss",
+      "PackagePath": "staticwebassets\\dashmin-1.0.0\\scss\\bootstrap\\scss\\mixins\\_resize.scss"
+    },
+    {
+      "Id": "F:\\net_core_mvc_pratik\\Pratik\\wwwroot\\dashmin-1.0.0\\scss\\bootstrap\\scss\\mixins\\_table-variants.scss",
+      "PackagePath": "staticwebassets\\dashmin-1.0.0\\scss\\bootstrap\\scss\\mixins\\_table-variants.scss"
+    },
+    {
+      "Id": "F:\\net_core_mvc_pratik\\Pratik\\wwwroot\\dashmin-1.0.0\\scss\\bootstrap\\scss\\mixins\\_text-truncate.scss",
+      "PackagePath": "staticwebassets\\dashmin-1.0.0\\scss\\bootstrap\\scss\\mixins\\_text-truncate.scss"
+    },
+    {
+      "Id": "F:\\net_core_mvc_pratik\\Pratik\\wwwroot\\dashmin-1.0.0\\scss\\bootstrap\\scss\\mixins\\_transition.scss",
+      "PackagePath": "staticwebassets\\dashmin-1.0.0\\scss\\bootstrap\\scss\\mixins\\_transition.scss"
+    },
+    {
+      "Id": "F:\\net_core_mvc_pratik\\Pratik\\wwwroot\\dashmin-1.0.0\\scss\\bootstrap\\scss\\mixins\\_utilities.scss",
+      "PackagePath": "staticwebassets\\dashmin-1.0.0\\scss\\bootstrap\\scss\\mixins\\_utilities.scss"
+    },
+    {
+      "Id": "F:\\net_core_mvc_pratik\\Pratik\\wwwroot\\dashmin-1.0.0\\scss\\bootstrap\\scss\\mixins\\_visually-hidden.scss",
+      "PackagePath": "staticwebassets\\dashmin-1.0.0\\scss\\bootstrap\\scss\\mixins\\_visually-hidden.scss"
+    },
+    {
+      "Id": "F:\\net_core_mvc_pratik\\Pratik\\wwwroot\\dashmin-1.0.0\\scss\\bootstrap\\scss\\utilities\\_api.scss",
+      "PackagePath": "staticwebassets\\dashmin-1.0.0\\scss\\bootstrap\\scss\\utilities\\_api.scss"
+    },
+    {
+      "Id": "F:\\net_core_mvc_pratik\\Pratik\\wwwroot\\dashmin-1.0.0\\scss\\bootstrap\\scss\\vendor\\_rfs.scss",
+      "PackagePath": "staticwebassets\\dashmin-1.0.0\\scss\\bootstrap\\scss\\vendor\\_rfs.scss"
+    },
+    {
+      "Id": "F:\\net_core_mvc_pratik\\Pratik\\wwwroot\\dashmin-1.0.0\\signin.html",
+      "PackagePath": "staticwebassets\\dashmin-1.0.0\\signin.html"
+    },
+    {
+      "Id": "F:\\net_core_mvc_pratik\\Pratik\\wwwroot\\dashmin-1.0.0\\signup.html",
+      "PackagePath": "staticwebassets\\dashmin-1.0.0\\signup.html"
+    },
+    {
+      "Id": "F:\\net_core_mvc_pratik\\Pratik\\wwwroot\\dashmin-1.0.0\\table.html",
+      "PackagePath": "staticwebassets\\dashmin-1.0.0\\table.html"
+    },
+    {
+      "Id": "F:\\net_core_mvc_pratik\\Pratik\\wwwroot\\dashmin-1.0.0\\typography.html",
+      "PackagePath": "staticwebassets\\dashmin-1.0.0\\typography.html"
+    },
+    {
+      "Id": "F:\\net_core_mvc_pratik\\Pratik\\wwwroot\\dashmin-1.0.0\\widget.html",
+      "PackagePath": "staticwebassets\\dashmin-1.0.0\\widget.html"
+    },
+    {
+      "Id": "F:\\net_core_mvc_pratik\\Pratik\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "F:\\net_core_mvc_pratik\\Pratik\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "F:\\net_core_mvc_pratik\\Pratik\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "F:\\net_core_mvc_pratik\\Pratik\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "F:\\net_core_mvc_pratik\\Pratik\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "F:\\net_core_mvc_pratik\\Pratik\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "F:\\net_core_mvc_pratik\\Pratik\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "F:\\net_core_mvc_pratik\\Pratik\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "F:\\net_core_mvc_pratik\\Pratik\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "F:\\net_core_mvc_pratik\\Pratik\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "F:\\net_core_mvc_pratik\\Pratik\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "F:\\net_core_mvc_pratik\\Pratik\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "F:\\net_core_mvc_pratik\\Pratik\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "F:\\net_core_mvc_pratik\\Pratik\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "F:\\net_core_mvc_pratik\\Pratik\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "F:\\net_core_mvc_pratik\\Pratik\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "F:\\net_core_mvc_pratik\\Pratik\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "F:\\net_core_mvc_pratik\\Pratik\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "F:\\net_core_mvc_pratik\\Pratik\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "F:\\net_core_mvc_pratik\\Pratik\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "F:\\net_core_mvc_pratik\\Pratik\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "F:\\net_core_mvc_pratik\\Pratik\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "F:\\net_core_mvc_pratik\\Pratik\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "F:\\net_core_mvc_pratik\\Pratik\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "F:\\net_core_mvc_pratik\\Pratik\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "F:\\net_core_mvc_pratik\\Pratik\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "F:\\net_core_mvc_pratik\\Pratik\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "F:\\net_core_mvc_pratik\\Pratik\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "F:\\net_core_mvc_pratik\\Pratik\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "F:\\net_core_mvc_pratik\\Pratik\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "F:\\net_core_mvc_pratik\\Pratik\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "F:\\net_core_mvc_pratik\\Pratik\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "F:\\net_core_mvc_pratik\\Pratik\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "F:\\net_core_mvc_pratik\\Pratik\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "F:\\net_core_mvc_pratik\\Pratik\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "F:\\net_core_mvc_pratik\\Pratik\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "F:\\net_core_mvc_pratik\\Pratik\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "F:\\net_core_mvc_pratik\\Pratik\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "F:\\net_core_mvc_pratik\\Pratik\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "F:\\net_core_mvc_pratik\\Pratik\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "F:\\net_core_mvc_pratik\\Pratik\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "F:\\net_core_mvc_pratik\\Pratik\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "F:\\net_core_mvc_pratik\\Pratik\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "F:\\net_core_mvc_pratik\\Pratik\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "F:\\net_core_mvc_pratik\\Pratik\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "F:\\net_core_mvc_pratik\\Pratik\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "F:\\net_core_mvc_pratik\\Pratik\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "F:\\net_core_mvc_pratik\\Pratik\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "F:\\net_core_mvc_pratik\\Pratik\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "F:\\net_core_mvc_pratik\\Pratik\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "F:\\net_core_mvc_pratik\\Pratik\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "F:\\net_core_mvc_pratik\\Pratik\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "F:\\net_core_mvc_pratik\\Pratik\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "F:\\net_core_mvc_pratik\\Pratik\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "F:\\net_core_mvc_pratik\\Pratik\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "F:\\net_core_mvc_pratik\\Pratik\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "F:\\net_core_mvc_pratik\\Pratik\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "F:\\net_core_mvc_pratik\\Pratik\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "F:\\net_core_mvc_pratik\\Pratik\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "F:\\net_core_mvc_pratik\\Pratik\\wwwroot\\starter\\about.html",
+      "PackagePath": "staticwebassets\\starter\\about.html"
+    },
+    {
+      "Id": "F:\\net_core_mvc_pratik\\Pratik\\wwwroot\\starter\\assets\\css\\style-starter.css",
+      "PackagePath": "staticwebassets\\starter\\assets\\css\\style-starter.css"
+    },
+    {
+      "Id": "F:\\net_core_mvc_pratik\\Pratik\\wwwroot\\starter\\assets\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\starter\\assets\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "F:\\net_core_mvc_pratik\\Pratik\\wwwroot\\starter\\assets\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\starter\\assets\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "F:\\net_core_mvc_pratik\\Pratik\\wwwroot\\starter\\assets\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\starter\\assets\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "F:\\net_core_mvc_pratik\\Pratik\\wwwroot\\starter\\assets\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\starter\\assets\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "F:\\net_core_mvc_pratik\\Pratik\\wwwroot\\starter\\assets\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\starter\\assets\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "F:\\net_core_mvc_pratik\\Pratik\\wwwroot\\starter\\assets\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\starter\\assets\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "F:\\net_core_mvc_pratik\\Pratik\\wwwroot\\starter\\assets\\images\\404.svg",
+      "PackagePath": "staticwebassets\\starter\\assets\\images\\404.svg"
+    },
+    {
+      "Id": "F:\\net_core_mvc_pratik\\Pratik\\wwwroot\\starter\\assets\\images\\Villa1.jpg",
+      "PackagePath": "staticwebassets\\starter\\assets\\images\\Villa1.jpg"
+    },
+    {
+      "Id": "F:\\net_core_mvc_pratik\\Pratik\\wwwroot\\starter\\assets\\images\\about.jpg",
+      "PackagePath": "staticwebassets\\starter\\assets\\images\\about.jpg"
+    },
+    {
+      "Id": "F:\\net_core_mvc_pratik\\Pratik\\wwwroot\\starter\\assets\\images\\about1.jpg",
+      "PackagePath": "staticwebassets\\starter\\assets\\images\\about1.jpg"
+    },
+    {
+      "Id": "F:\\net_core_mvc_pratik\\Pratik\\wwwroot\\starter\\assets\\images\\banner.jpg",
+      "PackagePath": "staticwebassets\\starter\\assets\\images\\banner.jpg"
+    },
+    {
+      "Id": "F:\\net_core_mvc_pratik\\Pratik\\wwwroot\\starter\\assets\\images\\client1.png",
+      "PackagePath": "staticwebassets\\starter\\assets\\images\\client1.png"
+    },
+    {
+      "Id": "F:\\net_core_mvc_pratik\\Pratik\\wwwroot\\starter\\assets\\images\\client2.png",
+      "PackagePath": "staticwebassets\\starter\\assets\\images\\client2.png"
+    },
+    {
+      "Id": "F:\\net_core_mvc_pratik\\Pratik\\wwwroot\\starter\\assets\\images\\client3.png",
+      "PackagePath": "staticwebassets\\starter\\assets\\images\\client3.png"
+    },
+    {
+      "Id": "F:\\net_core_mvc_pratik\\Pratik\\wwwroot\\starter\\assets\\images\\client4.png",
+      "PackagePath": "staticwebassets\\starter\\assets\\images\\client4.png"
+    },
+    {
+      "Id": "F:\\net_core_mvc_pratik\\Pratik\\wwwroot\\starter\\assets\\images\\client5.png",
+      "PackagePath": "staticwebassets\\starter\\assets\\images\\client5.png"
+    },
+    {
+      "Id": "F:\\net_core_mvc_pratik\\Pratik\\wwwroot\\starter\\assets\\images\\client6.png",
+      "PackagePath": "staticwebassets\\starter\\assets\\images\\client6.png"
+    },
+    {
+      "Id": "F:\\net_core_mvc_pratik\\Pratik\\wwwroot\\starter\\assets\\images\\down.png",
+      "PackagePath": "staticwebassets\\starter\\assets\\images\\down.png"
+    },
+    {
+      "Id": "F:\\net_core_mvc_pratik\\Pratik\\wwwroot\\starter\\assets\\images\\l1.jpg",
+      "PackagePath": "staticwebassets\\starter\\assets\\images\\l1.jpg"
+    },
+    {
+      "Id": "F:\\net_core_mvc_pratik\\Pratik\\wwwroot\\starter\\assets\\images\\l2.jpg",
+      "PackagePath": "staticwebassets\\starter\\assets\\images\\l2.jpg"
+    },
+    {
+      "Id": "F:\\net_core_mvc_pratik\\Pratik\\wwwroot\\starter\\assets\\images\\l3.jpg",
+      "PackagePath": "staticwebassets\\starter\\assets\\images\\l3.jpg"
+    },
+    {
+      "Id": "F:\\net_core_mvc_pratik\\Pratik\\wwwroot\\starter\\assets\\images\\l4.jpg",
+      "PackagePath": "staticwebassets\\starter\\assets\\images\\l4.jpg"
+    },
+    {
+      "Id": "F:\\net_core_mvc_pratik\\Pratik\\wwwroot\\starter\\assets\\images\\l5.jpg",
+      "PackagePath": "staticwebassets\\starter\\assets\\images\\l5.jpg"
+    },
+    {
+      "Id": "F:\\net_core_mvc_pratik\\Pratik\\wwwroot\\starter\\assets\\images\\p1.jpg",
+      "PackagePath": "staticwebassets\\starter\\assets\\images\\p1.jpg"
+    },
+    {
+      "Id": "F:\\net_core_mvc_pratik\\Pratik\\wwwroot\\starter\\assets\\images\\p2.jpg",
+      "PackagePath": "staticwebassets\\starter\\assets\\images\\p2.jpg"
+    },
+    {
+      "Id": "F:\\net_core_mvc_pratik\\Pratik\\wwwroot\\starter\\assets\\images\\p3.jpg",
+      "PackagePath": "staticwebassets\\starter\\assets\\images\\p3.jpg"
+    },
+    {
+      "Id": "F:\\net_core_mvc_pratik\\Pratik\\wwwroot\\starter\\assets\\images\\p4.jpg",
+      "PackagePath": "staticwebassets\\starter\\assets\\images\\p4.jpg"
+    },
+    {
+      "Id": "F:\\net_core_mvc_pratik\\Pratik\\wwwroot\\starter\\assets\\images\\p5.jpg",
+      "PackagePath": "staticwebassets\\starter\\assets\\images\\p5.jpg"
+    },
+    {
+      "Id": "F:\\net_core_mvc_pratik\\Pratik\\wwwroot\\starter\\assets\\images\\p6.jpg",
+      "PackagePath": "staticwebassets\\starter\\assets\\images\\p6.jpg"
+    },
+    {
+      "Id": "F:\\net_core_mvc_pratik\\Pratik\\wwwroot\\starter\\assets\\images\\p7.jpg",
+      "PackagePath": "staticwebassets\\starter\\assets\\images\\p7.jpg"
+    },
+    {
+      "Id": "F:\\net_core_mvc_pratik\\Pratik\\wwwroot\\starter\\assets\\images\\p8.jpg",
+      "PackagePath": "staticwebassets\\starter\\assets\\images\\p8.jpg"
+    },
+    {
+      "Id": "F:\\net_core_mvc_pratik\\Pratik\\wwwroot\\starter\\assets\\images\\single.jpg",
+      "PackagePath": "staticwebassets\\starter\\assets\\images\\single.jpg"
+    },
+    {
+      "Id": "F:\\net_core_mvc_pratik\\Pratik\\wwwroot\\starter\\assets\\images\\stats.jpg",
+      "PackagePath": "staticwebassets\\starter\\assets\\images\\stats.jpg"
+    },
+    {
+      "Id": "F:\\net_core_mvc_pratik\\Pratik\\wwwroot\\starter\\assets\\images\\team1.jpg",
+      "PackagePath": "staticwebassets\\starter\\assets\\images\\team1.jpg"
+    },
+    {
+      "Id": "F:\\net_core_mvc_pratik\\Pratik\\wwwroot\\starter\\assets\\images\\team2.jpg",
+      "PackagePath": "staticwebassets\\starter\\assets\\images\\team2.jpg"
+    },
+    {
+      "Id": "F:\\net_core_mvc_pratik\\Pratik\\wwwroot\\starter\\assets\\images\\team3.jpg",
+      "PackagePath": "staticwebassets\\starter\\assets\\images\\team3.jpg"
+    },
+    {
+      "Id": "F:\\net_core_mvc_pratik\\Pratik\\wwwroot\\starter\\assets\\images\\team4.jpg",
+      "PackagePath": "staticwebassets\\starter\\assets\\images\\team4.jpg"
+    },
+    {
+      "Id": "F:\\net_core_mvc_pratik\\Pratik\\wwwroot\\starter\\assets\\images\\team5.jpg",
+      "PackagePath": "staticwebassets\\starter\\assets\\images\\team5.jpg"
+    },
+    {
+      "Id": "F:\\net_core_mvc_pratik\\Pratik\\wwwroot\\starter\\assets\\images\\team6.jpg",
+      "PackagePath": "staticwebassets\\starter\\assets\\images\\team6.jpg"
+    },
+    {
+      "Id": "F:\\net_core_mvc_pratik\\Pratik\\wwwroot\\starter\\assets\\images\\who.jpg",
+      "PackagePath": "staticwebassets\\starter\\assets\\images\\who.jpg"
+    },
+    {
+      "Id": "F:\\net_core_mvc_pratik\\Pratik\\wwwroot\\starter\\assets\\images\\who1.jpg",
+      "PackagePath": "staticwebassets\\starter\\assets\\images\\who1.jpg"
+    },
+    {
+      "Id": "F:\\net_core_mvc_pratik\\Pratik\\wwwroot\\starter\\assets\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\starter\\assets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "F:\\net_core_mvc_pratik\\Pratik\\wwwroot\\starter\\assets\\js\\jquery-3.3.1.min.js",
+      "PackagePath": "staticwebassets\\starter\\assets\\js\\jquery-3.3.1.min.js"
+    },
+    {
+      "Id": "F:\\net_core_mvc_pratik\\Pratik\\wwwroot\\starter\\assets\\js\\jquery.countup.js",
+      "PackagePath": "staticwebassets\\starter\\assets\\js\\jquery.countup.js"
+    },
+    {
+      "Id": "F:\\net_core_mvc_pratik\\Pratik\\wwwroot\\starter\\assets\\js\\jquery.magnific-popup.min.js",
+      "PackagePath": "staticwebassets\\starter\\assets\\js\\jquery.magnific-popup.min.js"
+    },
+    {
+      "Id": "F:\\net_core_mvc_pratik\\Pratik\\wwwroot\\starter\\assets\\js\\jquery.waypoints.min.js",
+      "PackagePath": "staticwebassets\\starter\\assets\\js\\jquery.waypoints.min.js"
+    },
+    {
+      "Id": "F:\\net_core_mvc_pratik\\Pratik\\wwwroot\\starter\\assets\\js\\owl.carousel.js",
+      "PackagePath": "staticwebassets\\starter\\assets\\js\\owl.carousel.js"
+    },
+    {
+      "Id": "F:\\net_core_mvc_pratik\\Pratik\\wwwroot\\starter\\assets\\js\\theme-change.js",
+      "PackagePath": "staticwebassets\\starter\\assets\\js\\theme-change.js"
+    },
+    {
+      "Id": "F:\\net_core_mvc_pratik\\Pratik\\wwwroot\\starter\\contact.html",
+      "PackagePath": "staticwebassets\\starter\\contact.html"
+    },
+    {
+      "Id": "F:\\net_core_mvc_pratik\\Pratik\\wwwroot\\starter\\images\\1.jpg",
+      "PackagePath": "staticwebassets\\starter\\images\\1.jpg"
+    },
+    {
+      "Id": "F:\\net_core_mvc_pratik\\Pratik\\wwwroot\\starter\\images\\2.jpg",
+      "PackagePath": "staticwebassets\\starter\\images\\2.jpg"
+    },
+    {
+      "Id": "F:\\net_core_mvc_pratik\\Pratik\\wwwroot\\starter\\images\\3.jpg",
+      "PackagePath": "staticwebassets\\starter\\images\\3.jpg"
+    },
+    {
+      "Id": "F:\\net_core_mvc_pratik\\Pratik\\wwwroot\\starter\\images\\4.jpg",
+      "PackagePath": "staticwebassets\\starter\\images\\4.jpg"
+    },
+    {
+      "Id": "F:\\net_core_mvc_pratik\\Pratik\\wwwroot\\starter\\images\\5.jpeg",
+      "PackagePath": "staticwebassets\\starter\\images\\5.jpeg"
+    },
+    {
+      "Id": "F:\\net_core_mvc_pratik\\Pratik\\wwwroot\\starter\\images\\6.jpg",
+      "PackagePath": "staticwebassets\\starter\\images\\6.jpg"
+    },
+    {
+      "Id": "F:\\net_core_mvc_pratik\\Pratik\\wwwroot\\starter\\index.html",
+      "PackagePath": "staticwebassets\\starter\\index.html"
+    },
+    {
+      "Id": "F:\\net_core_mvc_pratik\\Pratik\\wwwroot\\starter\\listing.html",
+      "PackagePath": "staticwebassets\\starter\\listing.html"
+    },
+    {
+      "Id": "F:\\net_core_mvc_pratik\\Pratik\\wwwroot\\starter\\property-single.html",
+      "PackagePath": "staticwebassets\\starter\\property-single.html"
+    },
+    {
+      "Id": "F:\\net_core_mvc_pratik\\Pratik\\wwwroot\\starter\\starter-license-W3Layouts.txt",
+      "PackagePath": "staticwebassets\\starter\\starter-license-W3Layouts.txt"
+    },
+    {
+      "Id": "F:\\net_core_mvc_pratik\\Pratik\\wwwroot\\test1.css",
+      "PackagePath": "staticwebassets\\test1.css"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Pratik.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Pratik.props",
+      "PackagePath": "build\\Pratik.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Pratik.props",
+      "PackagePath": "buildMultiTargeting\\Pratik.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Pratik.props",
+      "PackagePath": "buildTransitive\\Pratik.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
