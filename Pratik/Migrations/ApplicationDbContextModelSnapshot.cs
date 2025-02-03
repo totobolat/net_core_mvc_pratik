@@ -32,8 +32,8 @@ namespace Pratik.Migrations
                     b.Property<string>("CategoryName")
                         .HasColumnType("varchar(50)");
 
-                    b.Property<int>("CategoryStatus")
-                        .HasColumnType("integer");
+                    b.Property<bool>("CategoryStatus")
+                        .HasColumnType("boolean");
 
                     b.HasKey("CategoryId");
 
@@ -70,8 +70,8 @@ namespace Pratik.Migrations
 
                     NpgsqlPropertyBuilderExtensions.UseIdentityByDefaultColumn(b.Property<int>("EmployeeId"));
 
-                    b.Property<int>("EmployeeStatus")
-                        .HasColumnType("integer");
+                    b.Property<bool>("EmployeeStatus")
+                        .HasColumnType("boolean");
 
                     b.Property<string>("ImageUrl")
                         .HasColumnType("varchar(1000)");
@@ -115,6 +115,9 @@ namespace Pratik.Migrations
 
                     b.Property<string>("District")
                         .HasColumnType("varchar(100)");
+
+                    b.Property<int>("EmployeeId")
+                        .HasColumnType("integer");
 
                     b.Property<decimal>("Price")
                         .HasColumnType("decimal(18, 2)");

@@ -9,7 +9,7 @@ public class Category
     public int CategoryId { get; set;}
     [Column(TypeName = "varchar(50)")]
     public string? CategoryName { get; set;}
-    public int CategoryStatus { get; set; }
+    public bool CategoryStatus { get; set; }
 }
  public class Product {
 
@@ -31,6 +31,7 @@ public class Category
     [Column(TypeName = "varchar(8000)")]
     public string? Description { get; set; }
     public int ProductCategory { get; set; }
+    public int EmployeeId { get; set; }
 
  }
 
@@ -76,5 +77,5 @@ public class Employee {
    public string? Phone { get; set; }
    [Column(TypeName = "varchar(1000)")]
    public string? ImageUrl { get; set; }
-   public int EmployeeStatus { get; set; }
+   public bool EmployeeStatus { get; set; }
 }
